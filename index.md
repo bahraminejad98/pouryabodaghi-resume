@@ -76,4 +76,4 @@ I am studying computer engineering at PNU University.
 
 - instagram: <a href="https://instagram.com/pouryab.75?igshid=17r203faswlwl">https://instagram.com/pouryab.75?igshid=17r203faswlwl</a>
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://pouryab75.github.io/resume-fa.github.io/"> Resume </a>
