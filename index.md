@@ -32,7 +32,7 @@ I am studying computer engineering at PNU University.
 
 + Master of wordpress
 
-+ C+
++ C#
 
 + Scss
 
